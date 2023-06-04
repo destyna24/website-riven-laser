@@ -1,0 +1,90 @@
+.font1 {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.ukuran-icon {
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+.tentang {
+    font-weight: bold;
+    text-align: justify;
+}
+
+.tentang1 {
+    text-align: justify;
+}
+
+.floating {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.fab-icon {
+    margin-top: 16px;
+   }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    margin-top: 100px;
+  }
+
+  .floating-btn {
+    position: fixed;
+    bottom: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    font-size: 24px;
+    z-index: 999;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .whatsapp {
+    background-color: #25d366;
+    right: 20px;
+  }
+  
+  .instagram {
+    background-color: #db1e60;
+    right: 90px;
+  }
+  
+  .tiktok {
+    background-color: #000;
+    right: 160px;
+  }
+
+  .floating-btn a {
+    color: #fff;
+    display: block;
+  }
+  
+  .floating-btn:hover {
+    transform: scale(1.1);
+  }
+
+
+  
